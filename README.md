@@ -39,5 +39,5 @@ The tool operates as an intelligent middleware layer between the helpdesk (CSV) 
 
 ## 📂 Project Structure
 - `src/main.py`: Main execution logic and LLM interface.
-- `src/network_tickets.csv`: Dataset of diverse network incidents for technical analysis.
-- `requirements.txt`: Project dependencies and library versions.
+- `network_tickets.csv`: Dataset of diverse network incidents for technical analysis.
+
