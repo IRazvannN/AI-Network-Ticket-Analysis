@@ -32,11 +32,12 @@ The tool operates as an intelligent middleware layer between the helpdesk (CSV) 
    pip install -r requirements.txt
    ```
 2. **Configure Authentication:**
-   Export your Gemini API Key: `export GEMINI_API_KEY='your_key_here'`
+   Export your Gemini API Key as an environment variable:
+   `export GEMINI_API_KEY='your_key_here'`
 3. **Execute Triage:**
    Run the analysis script: `python src/main.py`
 
 ## 📂 Project Structure
 - `src/main.py`: Main execution logic and LLM interface.
-- `src/network_tickets.csv`: Dataset of diverse network incidents for testing.
-- `analyzed_tickets_final.csv`: Final structured output for engineering review.
+- `src/network_tickets.csv`: Dataset of diverse network incidents for technical analysis.
+- `requirements.txt`: Project dependencies and library versions.
