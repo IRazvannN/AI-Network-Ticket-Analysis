@@ -1,0 +1,10 @@
+Ticket_ID,Description
+101,Users in Building A cannot reach the file server (192.168.10.5). Request Timed Out.
+102,Core Router showing 'OSPF Neighbor Down' messages for the link to Branch B.
+103,High latency reported on the WAN link. Interface Serial0/1/0 shows 5% packet loss.
+104,Accounting VLAN 20 is down. Users are not getting IP addresses.
+105,Console log shows 'Duplicate IP address 192.168.1.50' detected.
+106,SSH connection refused on Core Switch from management subnet.
+107,Wireless users complain about frequent disconnections in the cafeteria.
+108,BGP session to ISP is flapping. Log shows 'Hold Timer Expired'.
+109,My dog will not eat his food and keeps barking.
